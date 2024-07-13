@@ -1,0 +1,8 @@
+
+body{background:#D6EFD8;}
+h1{text-align:center;}
+hr{background:#a7c5a7; border: 2px dotted;width: 30%;border-width: 2px;}
+img{max-width: 40%; height: auto; margin-left: 30%;}
+table, th, td{border: 1px solid;}
+.head{color: #1A5319;}
+img:hover{border-radius: 100px;}
